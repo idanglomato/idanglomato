@@ -26,6 +26,7 @@
 <a><img align="center" src="https://i.ibb.co/vBzGxMT/r-programming.png" alt="rprogramming" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/VmLT7DV/Matlab-Logo.png" alt="matlab" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/RbZpV5R/Scikit-learn-logo-small.png" alt="scikit" height="40" width="65" /></a>
+<a><img align="center" src="https://i.ibb.co/rF4fvSj/seaborn.png" alt="seaborn" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/WP8HR3W/Plotly-logoo.png" alt="plotly" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/YRZ6w1t/Tensorflow-logo.png" alt="tensorflow" height="40" width="40" /></a>
 </p>
