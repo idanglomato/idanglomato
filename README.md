@@ -1,4 +1,4 @@
-## Hola 👋, This is **Tommy Anglomas**! 
+## Hola👋, This is **Tommy Anglomas**! 
 ### Just call me **Tom or Anglo** :blush:
 
 ### Intro:
@@ -21,7 +21,7 @@
 <p align="left">
 <a><img align="center" src="https://i.ibb.co/3YF2mp9/Python-logo.png" alt="python" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/MgC5Lq9/pandas-mark.png" alt="pandas" height="40" width="40" /></a>
-<a><img align="center" src="https://i.ibb.co/GpP3f5m/mysql.png" alt="mysql" height="40" width="50" /></a>
+<a><img align="center" src="https://i.ibb.co/F54ZMsV/mysql.png" alt="mysql" height="40" width="50" /></a>
 <a><img align="center" src="https://i.ibb.co/0VfJdnc/Postgresql-elephant.png" alt="postgresql" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/vBzGxMT/r-programming.png" alt="rprogramming" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/VmLT7DV/Matlab-Logo.png" alt="matlab" height="40" width="40" /></a>
