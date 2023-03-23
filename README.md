@@ -1,5 +1,4 @@
 # Hey there👋, this is **Tommy Anglomas**! 
-## Just call me **Tom or Anglo** :blush:
 
 ## Intro:
 - 🌱 I’m currently learning Data Science on Practicum.
