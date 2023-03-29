@@ -12,10 +12,14 @@
 <p align="left">
 <a><img align="center" src="https://i.ibb.co/3YF2mp9/Python-logo.png" alt="python" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/MgC5Lq9/pandas-mark.png" alt="pandas" height="40" width="40" /></a>
+<!---
 <a><img align="center" src="https://i.ibb.co/F54ZMsV/mysql.png" alt="mysql" height="40" width="50" /></a>
+--->
 <a><img align="center" src="https://i.ibb.co/0VfJdnc/Postgresql-elephant.png" alt="postgresql" height="40" width="40" /></a>
+<!---
 <a><img align="center" src="https://i.ibb.co/vBzGxMT/r-programming.png" alt="rprogramming" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/VmLT7DV/Matlab-Logo.png" alt="matlab" height="40" width="40" /></a>
+--->
 <a><img align="center" src="https://i.ibb.co/RbZpV5R/Scikit-learn-logo-small.png" alt="scikit" height="40" width="65" /></a>
 <a><img align="center" src="https://i.ibb.co/rF4fvSj/seaborn.png" alt="seaborn" height="40" width="40" /></a>
 <a><img align="center" src="https://i.ibb.co/WP8HR3W/Plotly-logoo.png" alt="plotly" height="40" width="40" /></a>
