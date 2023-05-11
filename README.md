@@ -6,7 +6,6 @@
 - 🤝 I’m ready to help on any Data Science Project.
 - 💬 Feel free to contact me and talk about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/tommy-anglomas/
-- ⚡ Fun fact: I meditate and exercise everyday. Mind before matter, right? :laughing:
 
 ## Languages and Tools:
 <p align="left">
